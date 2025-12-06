@@ -15,3 +15,7 @@ Machine Learning.
 
 To get started with this project, clone the repository and
 navigate to the `python-for-ml` folder.
+
+## adding python file
+
+program to calculate mean
