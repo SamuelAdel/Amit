@@ -1,8 +1,5 @@
 # Amit
 
-markdown
-Copy code
-
 # Amit Repository
 
 ## Project Overview
