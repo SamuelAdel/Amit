@@ -22,4 +22,4 @@ program to calculate mean
 
 ## adding 2nd python file
 
-load data by pandas
+load_data by pandas
