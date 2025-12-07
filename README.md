@@ -20,4 +20,6 @@ navigate to the `python-for-ml` folder.
 
 program to calculate mean
 
-## test
+## adding 2nd python file
+
+load data by pandas
